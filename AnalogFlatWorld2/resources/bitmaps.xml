@@ -1,0 +1,7 @@
+<resources>
+    <bitmap id="LauncherIcon" filename="images/icon.png" />
+    <bitmap id="FlatWorldIcon" filename="images/flatworldtrans.bmp" />
+    <bitmap id="RallyCarIcon" filename="images/rallycar.bmp" dithering="none" />
+    <bitmap id="SportsCarIcon" filename="images/sportscar.bmp" dithering="none" />
+    <bitmap id="PunchBuggyIcon" filename="images/punchbuggy.bmp" dithering="none" />
+</resources>

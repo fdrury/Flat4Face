@@ -1,0 +1,303 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<debugInfo>
+<pcToLineNum>
+<entry filename="C:\\Users\\fred\\workspace\\AnalogFlatWorld\\source\\AnalogView.mc" lineNum="25" pc="268435456" symbol="initialize"/>
+<entry filename="C:\\Users\\fred\\workspace\\AnalogFlatWorld\\source\\AnalogView.mc" lineNum="26" pc="268435460" symbol="initialize"/>
+<entry filename="C:\\Users\\fred\\workspace\\AnalogFlatWorld\\source\\AnalogView.mc" lineNum="27" pc="268435478" symbol="initialize"/>
+<entry filename="C:\\Users\\fred\\workspace\\AnalogFlatWorld\\source\\AnalogView.mc" lineNum="30" pc="268435508" symbol="onLayout"/>
+<entry filename="C:\\Users\\fred\\workspace\\AnalogFlatWorld\\source\\AnalogView.mc" lineNum="31" pc="268435512" symbol="onLayout"/>
+<entry filename="C:\\Users\\fred\\workspace\\AnalogFlatWorld\\source\\AnalogView.mc" lineNum="32" pc="268435555" symbol="onLayout"/>
+<entry filename="C:\\Users\\fred\\workspace\\AnalogFlatWorld\\source\\AnalogView.mc" lineNum="44" pc="268435680" symbol="drawHand"/>
+<entry filename="C:\\Users\\fred\\workspace\\AnalogFlatWorld\\source\\AnalogView.mc" lineNum="46" pc="268435684" symbol="drawHand"/>
+<entry filename="C:\\Users\\fred\\workspace\\AnalogFlatWorld\\source\\AnalogView.mc" lineNum="47" pc="268435882" symbol="drawHand"/>
+<entry filename="C:\\Users\\fred\\workspace\\AnalogFlatWorld\\source\\AnalogView.mc" lineNum="48" pc="268435890" symbol="drawHand"/>
+<entry filename="C:\\Users\\fred\\workspace\\AnalogFlatWorld\\source\\AnalogView.mc" lineNum="49" pc="268435909" symbol="drawHand"/>
+<entry filename="C:\\Users\\fred\\workspace\\AnalogFlatWorld\\source\\AnalogView.mc" lineNum="50" pc="268435928" symbol="drawHand"/>
+<entry filename="C:\\Users\\fred\\workspace\\AnalogFlatWorld\\source\\AnalogView.mc" lineNum="51" pc="268435947" symbol="drawHand"/>
+<entry filename="C:\\Users\\fred\\workspace\\AnalogFlatWorld\\source\\AnalogView.mc" lineNum="54" pc="268435966" symbol="drawHand"/>
+<entry filename="C:\\Users\\fred\\workspace\\AnalogFlatWorld\\source\\AnalogView.mc" lineNum="55" pc="268435984" symbol="drawHand"/>
+<entry filename="C:\\Users\\fred\\workspace\\AnalogFlatWorld\\source\\AnalogView.mc" lineNum="56" pc="268436015" symbol="drawHand"/>
+<entry filename="C:\\Users\\fred\\workspace\\AnalogFlatWorld\\source\\AnalogView.mc" lineNum="57" pc="268436046" symbol="drawHand"/>
+<entry filename="C:\\Users\\fred\\workspace\\AnalogFlatWorld\\source\\AnalogView.mc" lineNum="61" pc="268436096" symbol="drawHand"/>
+<entry filename="C:\\Users\\fred\\workspace\\AnalogFlatWorld\\source\\AnalogView.mc" lineNum="62" pc="268436110" symbol="drawHand"/>
+<entry filename="C:\\Users\\fred\\workspace\\AnalogFlatWorld\\source\\AnalogView.mc" lineNum="66" pc="268436125" symbol="onUpdate"/>
+<entry filename="C:\\Users\\fred\\workspace\\AnalogFlatWorld\\source\\AnalogView.mc" lineNum="67" pc="268436129" symbol="onUpdate"/>
+<entry filename="C:\\Users\\fred\\workspace\\AnalogFlatWorld\\source\\AnalogView.mc" lineNum="68" pc="268436129" symbol="onUpdate"/>
+<entry filename="C:\\Users\\fred\\workspace\\AnalogFlatWorld\\source\\AnalogView.mc" lineNum="69" pc="268436129" symbol="onUpdate"/>
+<entry filename="C:\\Users\\fred\\workspace\\AnalogFlatWorld\\source\\AnalogView.mc" lineNum="70" pc="268436142" symbol="onUpdate"/>
+<entry filename="C:\\Users\\fred\\workspace\\AnalogFlatWorld\\source\\AnalogView.mc" lineNum="71" pc="268436167" symbol="onUpdate"/>
+<entry filename="C:\\Users\\fred\\workspace\\AnalogFlatWorld\\source\\AnalogView.mc" lineNum="72" pc="268436184" symbol="onUpdate"/>
+<entry filename="C:\\Users\\fred\\workspace\\AnalogFlatWorld\\source\\AnalogView.mc" lineNum="73" pc="268436184" symbol="onUpdate"/>
+<entry filename="C:\\Users\\fred\\workspace\\AnalogFlatWorld\\source\\AnalogView.mc" lineNum="74" pc="268436184" symbol="onUpdate"/>
+<entry filename="C:\\Users\\fred\\workspace\\AnalogFlatWorld\\source\\AnalogView.mc" lineNum="75" pc="268436184" symbol="onUpdate"/>
+<entry filename="C:\\Users\\fred\\workspace\\AnalogFlatWorld\\source\\AnalogView.mc" lineNum="76" pc="268436184" symbol="onUpdate"/>
+<entry filename="C:\\Users\\fred\\workspace\\AnalogFlatWorld\\source\\AnalogView.mc" lineNum="77" pc="268436184" symbol="onUpdate"/>
+<entry filename="C:\\Users\\fred\\workspace\\AnalogFlatWorld\\source\\AnalogView.mc" lineNum="79" pc="268436184" symbol="onUpdate"/>
+<entry filename="C:\\Users\\fred\\workspace\\AnalogFlatWorld\\source\\AnalogView.mc" lineNum="80" pc="268436197" symbol="onUpdate"/>
+<entry filename="C:\\Users\\fred\\workspace\\AnalogFlatWorld\\source\\AnalogView.mc" lineNum="82" pc="268436210" symbol="onUpdate"/>
+<entry filename="C:\\Users\\fred\\workspace\\AnalogFlatWorld\\source\\AnalogView.mc" lineNum="83" pc="268436227" symbol="onUpdate"/>
+<entry filename="C:\\Users\\fred\\workspace\\AnalogFlatWorld\\source\\AnalogView.mc" lineNum="85" pc="268436258" symbol="onUpdate"/>
+<entry filename="C:\\Users\\fred\\workspace\\AnalogFlatWorld\\source\\AnalogView.mc" lineNum="88" pc="268436334" symbol="onUpdate"/>
+<entry filename="C:\\Users\\fred\\workspace\\AnalogFlatWorld\\source\\AnalogView.mc" lineNum="89" pc="268436370" symbol="onUpdate"/>
+<entry filename="C:\\Users\\fred\\workspace\\AnalogFlatWorld\\source\\AnalogView.mc" lineNum="92" pc="268436414" symbol="onUpdate"/>
+<entry filename="C:\\Users\\fred\\workspace\\AnalogFlatWorld\\source\\AnalogView.mc" lineNum="93" pc="268436450" symbol="onUpdate"/>
+<entry filename="C:\\Users\\fred\\workspace\\AnalogFlatWorld\\source\\AnalogView.mc" lineNum="97" pc="268436504" symbol="onUpdate"/>
+<entry filename="C:\\Users\\fred\\workspace\\AnalogFlatWorld\\source\\AnalogView.mc" lineNum="98" pc="268436511" symbol="onUpdate"/>
+<entry filename="C:\\Users\\fred\\workspace\\AnalogFlatWorld\\source\\AnalogView.mc" lineNum="99" pc="268436528" symbol="onUpdate"/>
+<entry filename="C:\\Users\\fred\\workspace\\AnalogFlatWorld\\source\\AnalogView.mc" lineNum="100" pc="268436577" symbol="onUpdate"/>
+<entry filename="C:\\Users\\fred\\workspace\\AnalogFlatWorld\\source\\AnalogView.mc" lineNum="101" pc="268436608" symbol="onUpdate"/>
+<entry filename="C:\\Users\\fred\\workspace\\AnalogFlatWorld\\source\\AnalogView.mc" lineNum="102" pc="268436619" symbol="onUpdate"/>
+<entry filename="C:\\Users\\fred\\workspace\\AnalogFlatWorld\\source\\AnalogView.mc" lineNum="106" pc="268436632" symbol="onUpdate"/>
+<entry filename="C:\\Users\\fred\\workspace\\AnalogFlatWorld\\source\\AnalogView.mc" lineNum="107" pc="268436668" symbol="onUpdate"/>
+<entry filename="C:\\Users\\fred\\workspace\\AnalogFlatWorld\\source\\AnalogView.mc" lineNum="108" pc="268436745" symbol="onUpdate"/>
+<entry filename="C:\\Users\\fred\\workspace\\AnalogFlatWorld\\source\\AnalogView.mc" lineNum="109" pc="268436781" symbol="onUpdate"/>
+<entry filename="C:\\Users\\fred\\workspace\\AnalogFlatWorld\\source\\AnalogView.mc" lineNum="112" pc="268436888" symbol="onUpdate"/>
+<entry filename="C:\\Users\\fred\\workspace\\AnalogFlatWorld\\source\\AnalogView.mc" lineNum="113" pc="268436901" symbol="onUpdate"/>
+<entry filename="C:\\Users\\fred\\workspace\\AnalogFlatWorld\\source\\AnalogView.mc" lineNum="117" pc="268436924" symbol="onUpdate"/>
+<entry filename="C:\\Users\\fred\\workspace\\AnalogFlatWorld\\source\\AnalogView.mc" lineNum="118" pc="268436955" symbol="onUpdate"/>
+<entry filename="C:\\Users\\fred\\workspace\\AnalogFlatWorld\\source\\AnalogView.mc" lineNum="119" pc="268436965" symbol="onUpdate"/>
+<entry filename="C:\\Users\\fred\\workspace\\AnalogFlatWorld\\source\\AnalogView.mc" lineNum="120" pc="268436988" symbol="onUpdate"/>
+<entry filename="C:\\Users\\fred\\workspace\\AnalogFlatWorld\\source\\AnalogView.mc" lineNum="121" pc="268437005" symbol="onUpdate"/>
+<entry filename="C:\\Users\\fred\\workspace\\AnalogFlatWorld\\source\\AnalogView.mc" lineNum="122" pc="268437041" symbol="onUpdate"/>
+<entry filename="C:\\Users\\fred\\workspace\\AnalogFlatWorld\\source\\AnalogView.mc" lineNum="123" pc="268437067" symbol="onUpdate"/>
+<entry filename="C:\\Users\\fred\\workspace\\AnalogFlatWorld\\source\\AnalogView.mc" lineNum="126" pc="268437093" symbol="onUpdate"/>
+<entry filename="C:\\Users\\fred\\workspace\\AnalogFlatWorld\\source\\AnalogView.mc" lineNum="127" pc="268437128" symbol="onUpdate"/>
+<entry filename="C:\\Users\\fred\\workspace\\AnalogFlatWorld\\source\\AnalogView.mc" lineNum="128" pc="268437145" symbol="onUpdate"/>
+<entry filename="C:\\Users\\fred\\workspace\\AnalogFlatWorld\\source\\AnalogView.mc" lineNum="129" pc="268437171" symbol="onUpdate"/>
+<entry filename="C:\\Users\\fred\\workspace\\AnalogFlatWorld\\source\\AnalogView.mc" lineNum="132" pc="268437197" symbol="onUpdate"/>
+<entry filename="C:\\Users\\fred\\workspace\\AnalogFlatWorld\\source\\AnalogView.mc" lineNum="133" pc="268437208" symbol="onUpdate"/>
+<entry filename="C:\\Users\\fred\\workspace\\AnalogFlatWorld\\source\\AnalogView.mc" lineNum="134" pc="268437244" symbol="onUpdate"/>
+<entry filename="C:\\Users\\fred\\workspace\\AnalogFlatWorld\\source\\AnalogView.mc" lineNum="135" pc="268437279" symbol="onUpdate"/>
+<entry filename="C:\\Users\\fred\\workspace\\AnalogFlatWorld\\source\\AnalogView.mc" lineNum="136" pc="268437296" symbol="onUpdate"/>
+<entry filename="C:\\Users\\fred\\workspace\\AnalogFlatWorld\\source\\AnalogView.mc" lineNum="137" pc="268437322" symbol="onUpdate"/>
+<entry filename="C:\\Users\\fred\\workspace\\AnalogFlatWorld\\source\\AnalogView.mc" lineNum="139" pc="268437348" symbol="onUpdate"/>
+<entry filename="C:\\Users\\fred\\workspace\\AnalogFlatWorld\\source\\AnalogView.mc" lineNum="140" pc="268437384" symbol="onUpdate"/>
+<entry filename="C:\\Users\\fred\\workspace\\AnalogFlatWorld\\source\\AnalogView.mc" lineNum="141" pc="268437417" symbol="onUpdate"/>
+<entry filename="C:\\Users\\fred\\workspace\\AnalogFlatWorld\\source\\AnalogView.mc" lineNum="142" pc="268437453" symbol="onUpdate"/>
+<entry filename="C:\\Users\\fred\\workspace\\AnalogFlatWorld\\source\\AnalogView.mc" lineNum="145" pc="268437489" symbol="onUpdate"/>
+<entry filename="C:\\Users\\fred\\workspace\\AnalogFlatWorld\\source\\AnalogView.mc" lineNum="146" pc="268437525" symbol="onUpdate"/>
+<entry filename="C:\\Users\\fred\\workspace\\AnalogFlatWorld\\source\\AnalogView.mc" lineNum="147" pc="268437558" symbol="onUpdate"/>
+<entry filename="C:\\Users\\fred\\workspace\\AnalogFlatWorld\\source\\AnalogView.mc" lineNum="148" pc="268437594" symbol="onUpdate"/>
+<entry filename="C:\\Users\\fred\\workspace\\AnalogFlatWorld\\source\\AnalogView.mc" lineNum="152" pc="268437628" symbol="onEnterSleep"/>
+<entry filename="C:\\Users\\fred\\workspace\\AnalogFlatWorld\\source\\AnalogView.mc" lineNum="153" pc="268437632" symbol="onEnterSleep"/>
+<entry filename="C:\\Users\\fred\\workspace\\AnalogFlatWorld\\source\\AnalogView.mc" lineNum="154" pc="268437642" symbol="onEnterSleep"/>
+<entry filename="C:\\Users\\fred\\workspace\\AnalogFlatWorld\\source\\AnalogView.mc" lineNum="157" pc="268437659" symbol="onExitSleep"/>
+<entry filename="C:\\Users\\fred\\workspace\\AnalogFlatWorld\\source\\AnalogView.mc" lineNum="158" pc="268437663" symbol="onExitSleep"/>
+<entry filename="C:\\Users\\fred\\workspace\\AnalogFlatWorld\\source\\AnalogGoalView.mc" lineNum="23" pc="268437674" symbol="initialize"/>
+<entry filename="C:\\Users\\fred\\workspace\\AnalogFlatWorld\\source\\AnalogGoalView.mc" lineNum="24" pc="268437678" symbol="initialize"/>
+<entry filename="C:\\Users\\fred\\workspace\\AnalogFlatWorld\\source\\AnalogGoalView.mc" lineNum="25" pc="268437696" symbol="initialize"/>
+<entry filename="C:\\Users\\fred\\workspace\\AnalogFlatWorld\\source\\AnalogGoalView.mc" lineNum="26" pc="268437725" symbol="initialize"/>
+<entry filename="C:\\Users\\fred\\workspace\\AnalogFlatWorld\\source\\AnalogGoalView.mc" lineNum="28" pc="268437735" symbol="initialize"/>
+<entry filename="C:\\Users\\fred\\workspace\\AnalogFlatWorld\\source\\AnalogGoalView.mc" lineNum="29" pc="268437753" symbol="initialize"/>
+<entry filename="C:\\Users\\fred\\workspace\\AnalogFlatWorld\\source\\AnalogGoalView.mc" lineNum="32" pc="268437787" symbol="initialize"/>
+<entry filename="C:\\Users\\fred\\workspace\\AnalogFlatWorld\\source\\AnalogGoalView.mc" lineNum="35" pc="268437821" symbol="initialize"/>
+<entry filename="C:\\Users\\fred\\workspace\\AnalogFlatWorld\\source\\AnalogGoalView.mc" lineNum="40" pc="268437838" symbol="onLayout"/>
+<entry filename="C:\\Users\\fred\\workspace\\AnalogFlatWorld\\source\\AnalogGoalView.mc" lineNum="41" pc="268437842" symbol="onLayout"/>
+<entry filename="C:\\Users\\fred\\workspace\\AnalogFlatWorld\\source\\AnalogGoalView.mc" lineNum="42" pc="268437866" symbol="onLayout"/>
+<entry filename="C:\\Users\\fred\\workspace\\AnalogFlatWorld\\source\\AnalogGoalView.mc" lineNum="45" pc="268438005" symbol="onLayout"/>
+<entry filename="C:\\Users\\fred\\workspace\\AnalogFlatWorld\\source\\AnalogGoalView.mc" lineNum="48" pc="268438144" symbol="onLayout"/>
+<entry filename="C:\\Users\\fred\\workspace\\AnalogFlatWorld\\source\\AnalogGoalView.mc" lineNum="52" pc="268438260" symbol="onExitSleep"/>
+<entry filename="C:\\Users\\fred\\workspace\\AnalogFlatWorld\\source\\AnalogGoalView.mc" lineNum="55" pc="268438265" symbol="onEnterSleep"/>
+<entry filename="C:\\Users\\fred\\workspace\\AnalogFlatWorld\\source\\AnalogGoalView.mc" lineNum="59" pc="268438270" symbol="onShow"/>
+<entry filename="C:\\Users\\fred\\workspace\\AnalogFlatWorld\\source\\AnalogGoalView.mc" lineNum="62" pc="268438275" symbol="performUpdate"/>
+<entry filename="C:\\Users\\fred\\workspace\\AnalogFlatWorld\\source\\AnalogGoalView.mc" lineNum="63" pc="268438279" symbol="performUpdate"/>
+<entry filename="C:\\Users\\fred\\workspace\\AnalogFlatWorld\\source\\AnalogGoalView.mc" lineNum="67" pc="268438296" symbol="onUpdate"/>
+<entry filename="C:\\Users\\fred\\workspace\\AnalogFlatWorld\\source\\AnalogGoalView.mc" lineNum="68" pc="268438300" symbol="onUpdate"/>
+<entry filename="C:\\Users\\fred\\workspace\\AnalogFlatWorld\\source\\AnalogGoalView.mc" lineNum="69" pc="268438300" symbol="onUpdate"/>
+<entry filename="C:\\Users\\fred\\workspace\\AnalogFlatWorld\\source\\AnalogGoalView.mc" lineNum="70" pc="268438300" symbol="onUpdate"/>
+<entry filename="C:\\Users\\fred\\workspace\\AnalogFlatWorld\\source\\AnalogGoalView.mc" lineNum="72" pc="268438317" symbol="onUpdate"/>
+<entry filename="C:\\Users\\fred\\workspace\\AnalogFlatWorld\\source\\AnalogGoalView.mc" lineNum="73" pc="268438330" symbol="onUpdate"/>
+<entry filename="C:\\Users\\fred\\workspace\\AnalogFlatWorld\\source\\AnalogGoalView.mc" lineNum="75" pc="268438343" symbol="onUpdate"/>
+<entry filename="C:\\Users\\fred\\workspace\\AnalogFlatWorld\\source\\AnalogGoalView.mc" lineNum="76" pc="268438360" symbol="onUpdate"/>
+<entry filename="C:\\Users\\fred\\workspace\\AnalogFlatWorld\\source\\AnalogGoalView.mc" lineNum="78" pc="268438391" symbol="onUpdate"/>
+<entry filename="C:\\Users\\fred\\workspace\\AnalogFlatWorld\\source\\AnalogGoalView.mc" lineNum="81" pc="268438467" symbol="onUpdate"/>
+<entry filename="C:\\Users\\fred\\workspace\\AnalogFlatWorld\\source\\AnalogGoalView.mc" lineNum="82" pc="268438503" symbol="onUpdate"/>
+<entry filename="C:\\Users\\fred\\workspace\\AnalogFlatWorld\\source\\AnalogGoalView.mc" lineNum="85" pc="268438529" symbol="onUpdate"/>
+<entry filename="C:\\Users\\fred\\workspace\\AnalogFlatWorld\\source\\AnalogGoalView.mc" lineNum="86" pc="268438565" symbol="onUpdate"/>
+<entry filename="C:\\Users\\fred\\workspace\\AnalogFlatWorld\\source\\AnalogGoalView.mc" lineNum="87" pc="268438631" symbol="onUpdate"/>
+<entry filename="C:\\Users\\fred\\workspace\\AnalogFlatWorld\\source\\AnalogGoalView.mc" lineNum="90" pc="268438694" symbol="onUpdate"/>
+<entry filename="C:\\Users\\fred\\workspace\\AnalogFlatWorld\\source\\AnalogGoalView.mc" lineNum="91" pc="268438707" symbol="onUpdate"/>
+<entry filename="C:\\Users\\fred\\workspace\\AnalogFlatWorld\\source\\AnalogApp.mc" lineNum="11" pc="268438731" symbol="initialize"/>
+<entry filename="C:\\Users\\fred\\workspace\\AnalogFlatWorld\\source\\AnalogApp.mc" lineNum="12" pc="268438735" symbol="initialize"/>
+<entry filename="C:\\Users\\fred\\workspace\\AnalogFlatWorld\\source\\AnalogApp.mc" lineNum="15" pc="268438754" symbol="onStart"/>
+<entry filename="C:\\Users\\fred\\workspace\\AnalogFlatWorld\\source\\AnalogApp.mc" lineNum="18" pc="268438759" symbol="onStop"/>
+<entry filename="C:\\Users\\fred\\workspace\\AnalogFlatWorld\\source\\AnalogApp.mc" lineNum="21" pc="268438764" symbol="getInitialView"/>
+<entry filename="C:\\Users\\fred\\workspace\\AnalogFlatWorld\\source\\AnalogApp.mc" lineNum="22" pc="268438768" symbol="getInitialView"/>
+<entry filename="C:\\Users\\fred\\workspace\\AnalogFlatWorld\\source\\AnalogApp.mc" lineNum="25" pc="268438806" symbol="getGoalView"/>
+<entry filename="C:\\Users\\fred\\workspace\\AnalogFlatWorld\\source\\AnalogApp.mc" lineNum="26" pc="268438810" symbol="getGoalView"/>
+</pcToLineNum>
+<symbolTable>
+<entry field="true" id="14" symbol="FlatWorldIcon"/>
+<entry id="8389124" method="true" symbol="onUpdate"/>
+<entry id="10" object="true" symbol="AnalogGoalView"/>
+<entry id="9" object="true" symbol="AnalogView"/>
+<entry field="true" id="27" symbol="fwIcon"/>
+<entry field="true" id="8388611" module="true" symbol="Toybox"/>
+<entry id="8388645" module="true" symbol="Time"/>
+<entry id="8388770" module="true" object="true" symbol="Strings"/>
+<entry id="8389280" method="true" symbol="getInitialView"/>
+<entry id="8389377" method="true" symbol="onExitSleep"/>
+<entry id="8388640" module="true" symbol="Lang"/>
+<entry id="8388769" module="true" object="true" symbol="Rez"/>
+<entry id="8389123" method="true" symbol="onShow"/>
+<entry id="8389916" method="true" symbol="getGoalView"/>
+<entry field="true" id="23" symbol="animationTimer"/>
+<entry id="8388702" method="true" symbol="initialize"/>
+<entry field="true" id="20" symbol="AppName"/>
+<entry id="28" method="true" symbol="drawHand"/>
+<entry id="8388641" module="true" symbol="Math"/>
+<entry field="true" id="18" symbol="LauncherIcon"/>
+<entry id="8389281" method="true" symbol="onStop"/>
+<entry field="true" id="8389065" symbol="locY"/>
+<entry field="true" id="8389064" symbol="locX"/>
+<entry id="8388771" module="true" object="true" symbol="Drawables"/>
+<entry id="8389122" method="true" symbol="onLayout"/>
+<entry field="true" id="16" symbol="SportsCarIcon"/>
+<entry id="8389279" method="true" symbol="onStart"/>
+<entry field="true" id="8389670" symbol="screenShape"/>
+<entry field="true" id="21" symbol="goalString"/>
+<entry id="8389376" method="true" symbol="onEnterSleep"/>
+<entry field="true" id="8389348" symbol="font"/>
+<entry field="true" id="17" symbol="PunchBuggyIcon"/>
+<entry id="25" method="true" symbol="performUpdate"/>
+<entry field="true" id="26" symbol="isAwake"/>
+<entry id="11" object="true" symbol="AnalogWatch"/>
+<entry id="13" module="true" symbol="Layouts"/>
+<entry id="8389345" symbol="rezId"/>
+<entry field="true" id="22" symbol="carIcon"/>
+<entry id="8390088" module="true" object="true" symbol="JsonData"/>
+<entry field="true" id="15" symbol="RallyCarIcon"/>
+<entry id="12" module="true" symbol="Menus"/>
+<entry field="true" id="19" symbol="id_font_black_diamond"/>
+<entry field="true" id="24" symbol="theGoal"/>
+<entry id="8388772" module="true" object="true" symbol="Fonts"/>
+<entry id="8388633" module="true" symbol="ActivityMonitor"/>
+</symbolTable>
+<localVars>
+<entry endPc="268435680" name="dc" stackId="1" startPc="268435508"/>
+<entry endPc="268436083" name="x" stackId="12" startPc="268435984"/>
+<entry endPc="268436083" name="y" stackId="13" startPc="268435984"/>
+<entry endPc="268436096" name="i" stackId="11" startPc="268435984"/>
+<entry endPc="268436124" name="result" stackId="6" startPc="268435684"/>
+<entry endPc="268436124" name="sin" stackId="10" startPc="268435684"/>
+<entry endPc="268436124" name="cos" stackId="9" startPc="268435684"/>
+<entry endPc="268436124" name="centerY" stackId="8" startPc="268435684"/>
+<entry endPc="268436124" name="coords" stackId="5" startPc="268435684"/>
+<entry endPc="268436124" name="centerX" stackId="7" startPc="268435684"/>
+<entry endPc="268436125" name="dc" stackId="1" startPc="268435680"/>
+<entry endPc="268436125" name="width" stackId="4" startPc="268435680"/>
+<entry endPc="268436125" name="length" stackId="3" startPc="268435680"/>
+<entry endPc="268436125" name="angle" stackId="2" startPc="268435680"/>
+<entry endPc="268437627" name="screenWidth" stackId="4" startPc="268436129"/>
+<entry endPc="268437627" name="now" stackId="13" startPc="268436129"/>
+<entry endPc="268437627" name="hourHand" stackId="7" startPc="268436129"/>
+<entry endPc="268437627" name="width" stackId="2" startPc="268436129"/>
+<entry endPc="268437627" name="stepMult" stackId="16" startPc="268436129"/>
+<entry endPc="268437627" name="info" stackId="14" startPc="268436129"/>
+<entry endPc="268437627" name="secondHand" stackId="11" startPc="268436129"/>
+<entry endPc="268437627" name="dateStr" stackId="15" startPc="268436129"/>
+<entry endPc="268437627" name="clockTime" stackId="6" startPc="268436129"/>
+<entry endPc="268437627" name="minuteHand" stackId="9" startPc="268436129"/>
+<entry endPc="268437627" name="activityInfo" stackId="17" startPc="268436129"/>
+<entry endPc="268437627" name="hourTail" stackId="8" startPc="268436129"/>
+<entry endPc="268437627" name="flatWorldWidth" stackId="5" startPc="268436129"/>
+<entry endPc="268437627" name="secondTail" stackId="12" startPc="268436129"/>
+<entry endPc="268437627" name="minuteTail" stackId="10" startPc="268436129"/>
+<entry endPc="268437627" name="height" stackId="3" startPc="268436129"/>
+<entry endPc="268437628" name="dc" stackId="1" startPc="268436125"/>
+<entry endPc="268437838" name="goal" stackId="1" startPc="268437674"/>
+<entry endPc="268438260" name="dc" stackId="1" startPc="268437838"/>
+<entry endPc="268438730" name="height" stackId="3" startPc="268438300"/>
+<entry endPc="268438730" name="dateStr" stackId="7" startPc="268438300"/>
+<entry endPc="268438730" name="now" stackId="5" startPc="268438300"/>
+<entry endPc="268438730" name="width" stackId="2" startPc="268438300"/>
+<entry endPc="268438730" name="clockTime" stackId="4" startPc="268438300"/>
+<entry endPc="268438730" name="info" stackId="6" startPc="268438300"/>
+<entry endPc="268438731" name="dc" stackId="1" startPc="268438296"/>
+<entry endPc="268438759" name="state" stackId="1" startPc="268438754"/>
+<entry endPc="268438764" name="state" stackId="1" startPc="268438759"/>
+<entry endPc="268438850" name="goal" stackId="1" startPc="268438806"/>
+</localVars>
+<annotations/>
+<functions>
+<functionEntry accessMode="public" name="initialize" parent="AnalogView">
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="onLayout" parent="AnalogView">
+<param id="dc"/>
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="drawHand" parent="AnalogView">
+<param id="dc"/>
+<param id="angle"/>
+<param id="length"/>
+<param id="width"/>
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="onUpdate" parent="AnalogView">
+<param id="dc"/>
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="onEnterSleep" parent="AnalogView">
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="onExitSleep" parent="AnalogView">
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="initialize" parent="AnalogGoalView">
+<param id="goal"/>
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="onLayout" parent="AnalogGoalView">
+<param id="dc"/>
+<documentation><![CDATA[<div class="description"> Load the resources required for the watch face<br/></div>]]></documentation>
+</functionEntry>
+<functionEntry accessMode="public" name="onExitSleep" parent="AnalogGoalView">
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="onEnterSleep" parent="AnalogGoalView">
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="onShow" parent="AnalogGoalView">
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="performUpdate" parent="AnalogGoalView">
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="onUpdate" parent="AnalogGoalView">
+<param id="dc"/>
+<documentation><![CDATA[<div class="description"> Update the clock face graphics during update<br/></div>]]></documentation>
+</functionEntry>
+<functionEntry accessMode="public" name="initialize" parent="AnalogWatch">
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="onStart" parent="AnalogWatch">
+<param id="state"/>
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="onStop" parent="AnalogWatch">
+<param id="state"/>
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="getInitialView" parent="AnalogWatch">
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="getGoalView" parent="AnalogWatch">
+<param id="goal"/>
+<documentation/>
+</functionEntry>
+</functions>
+<dataEntryOffsetMappings>
+<dataEntry offset="87" parentId="" symbolId="globals" type="module"/>
+<dataEntry offset="182" parentId="globals" symbolId="Rez" type="module"/>
+<dataEntry offset="261" parentId="Rez" symbolId="Drawables" type="module"/>
+<dataEntry offset="332" parentId="Rez" symbolId="Menus" type="module"/>
+<dataEntry offset="363" parentId="Rez" symbolId="Fonts" type="module"/>
+<dataEntry offset="402" parentId="Rez" symbolId="JsonData" type="module"/>
+<dataEntry offset="433" parentId="Rez" symbolId="Layouts" type="module"/>
+<dataEntry offset="464" parentId="Rez" symbolId="Strings" type="module"/>
+<dataEntry offset="503" parentId="globals" symbolId="AnalogGoalView" type="class"/>
+<dataEntry offset="638" parentId="globals" symbolId="AnalogView" type="class"/>
+<dataEntry offset="757" parentId="globals" symbolId="AnalogWatch" type="class"/>
+</dataEntryOffsetMappings>
+</debugInfo>
